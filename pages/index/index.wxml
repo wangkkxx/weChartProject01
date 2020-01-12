@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+  <image 
+    src="/images/avatar.jpg"
+    class="avatar"
+    />
+  <text>Hello，wxx</text>
+  <view class="btn">
+    <text>开启小程序之旅</text>
+  </view>
+</view>

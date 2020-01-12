@@ -1,0 +1,17 @@
+<view>
+  <swiper 
+    indicator-dots="true" 
+    indicator-active-color="#b3d4db"
+    autoplay="true" 
+    interval="3000">
+    <swiper-item>
+      <image src="/images/posts/01.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/posts/02.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/posts/03.jpg"></image>
+    </swiper-item>
+  </swiper>
+</view>
